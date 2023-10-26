@@ -70,6 +70,7 @@ function App() {
       console.error(error);
     }
   };
+  
   const clearOutput = () => {
     // Clear the output when needed
     setResult("");
