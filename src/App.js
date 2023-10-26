@@ -36,7 +36,7 @@ function App() {
       console.error(error);
     }
   };
-
+  
   const handleSummarizeText = async () => {
     try {
       const response = await axios.post(
