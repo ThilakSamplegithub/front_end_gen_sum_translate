@@ -10,7 +10,7 @@
 .env
 # production
 /build
-
+REACT_APP_API_URL=https://summarize-and-translate-with-endpoint.onrender.com
 # misc
 .DS_Store
 .env.local
